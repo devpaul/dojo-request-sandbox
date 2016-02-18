@@ -1,0 +1,31 @@
+{
+  "name": "dojo-core-request",
+  "version": "0.0.0",
+  "description": "",
+  "license": "BSD-3-Clause",
+  "main": "src/main.js",
+  "bugs": {
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "dojo-core": "^2.0.0-alpha.2",
+    "dojo-loader": "^2.0.0-alpha.4"
+  },
+  "devDependencies": {
+    "dts-generator": "1.4.1",
+    "grunt": "0.4.5",
+    "grunt-contrib-clean": "0.6.0",
+    "grunt-contrib-copy": "0.8.0",
+    "grunt-contrib-watch": "0.6.1",
+    "grunt-text-replace": "0.4.0",
+    "grunt-ts": "3.0.0",
+    "grunt-tslint": "2.0.0",
+    "intern": "^3.0.6",
+    "tslint": "2.1.1",
+    "typescript": "^1.8.0"
+  }
+}
